@@ -7,3 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
+
+### Javascript
+
+- [Compute the week number of a date](javascript/compute-week-number-of-a-date.md)
