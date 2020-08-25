@@ -8,6 +8,10 @@ warrant a full blog post.
 
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
 
+### Github
+
+- [Close an issue from a commit in a different repository](github/close-issue-in-different-repository.md)
+
 ### Javascript
 
 - [Compute the week number of a date](javascript/compute-week-number-of-a-date.md)
